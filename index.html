@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Adote um Amigo</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+    <h1>🐶 Adote um Amigo</h1>
+
+    <p>
+        Encontre um amigo que está procurando um novo lar.
+    </p>
+
+</header>
+
+
+<main class="container">
+
+    <h2>Cachorros para adoção</h2>
+
+
+    <div class="cards">
+
+
+        <!-- CACHORRO 1 -->
+
+        <div class="card">
+
+            <img src="imagens/cachorro1.jpg" alt="Foto do machinha">
+
+            <div class="card-content">
+
+                <h3>manchinha</h3>
+
+                <p>
+                    Macho • 3 semanas • cheio de manchas
+                </p>
+
+                <p>
+                    Carinhoso e brincalhão.
+                </p>
+
+                <a href="cachorro1.html">
+                    Ver informações
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- CACHORRO 2 -->
+
+        <div class="card">
+
+            <img src="imagens/cachorro2.jpg" alt="Foto da Melo">
+
+            <div class="card-content">
+
+                <h3>Melo</h3>
+
+                <p>
+                    Macho • 3 semanas • todo preto
+                </p>
+
+                <p>
+                    Dócil e carinhosa com seu olhos pretinhos
+                </p>
+
+                <a href="cachorro2.html">
+                    Ver informações
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- CACHORRO 3 -->
+
+        <div class="card">
+
+            <img src="imagens/cachorro3.jpg" alt="Foto do nove">
+
+            <div class="card-content">
+
+                <h3>neve</h3>
+
+                <p>
+                    femia • 3 semanas • pelo liso
+                </p>
+
+                <p>
+                    Amigável, brincalhão com os seus olhos azul.
+                </p>
+
+                <a href="cachorro3.html">
+                    Ver informações
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- CACHORRO 4 -->
+
+        <div class="card">
+
+            <img src="imagens/cachorro4.jpg" alt="Foto da jamelao">
+
+            <div class="card-content">
+
+                <h3>jamelao</h3>
+
+                <p>
+                    Macho • 3 semanas • toda preta
+                </p>
+
+                <p>
+                    Calma e carinhosa.
+                </p>
+
+                <a href="cachorro4.html">
+                    Ver informações
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- CACHORRO 5 -->
+
+        <div class="card">
+
+            <img src="imagens/cachorro5.jpg" alt="Foto do branquinho">
+
+            <div class="card-content">
+
+                <h3>branquinho</h3>
+
+                <p>
+                    Macho • 3 semanas • pelodo
+                </p>
+
+                <p>
+                    Brincalhão e amigável. 
+                </p>
+
+                <a href="cachorro5.html">
+                    Ver informações
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- CACHORRO 6 -->
+
+        <div class="card">
+
+            <img src="imagens/cachorro6.jpg" alt="Foto da cristao">
+
+            <div class="card-content">
+
+                <h3>cristao</h3>
+
+                <p>
+                    Fêmea • 3 semanas
+                </p>
+
+                <p>
+                    Carinhosa e tranquila.
+                </p>
+
+                <a href="cachorro6.html">
+                    Ver informações
+                </a>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+    <!-- CONTATO -->
+
+    <section class="contato">
+
+        <h2>📞 Entre em contato</h2>
+
+        <p>
+            Quer saber mais sobre algum cachorro?
+        </p>
+
+        <p>
+            Entre em contato para saber mais
+            sobre a adoção.
+        </p>
+
+        <a
+            class="whatsapp"
+            href="https://wa.me/5521976799521"
+            target="_blank">
+
+            💬 Falar pelo WhatsApp
+
+        </a>
+
+    </section>
+
+
+</main>
+
+
+<footer>
+
+    <p>
+        Adote um amigo ❤️
+    </p>
+
+</footer>
+
+
+</body>
+
+</html>
